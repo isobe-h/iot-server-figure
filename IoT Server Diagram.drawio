@@ -1,1 +1,256 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T04:07:02.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="62SocLsIsPVaB-zY7Kvy" version="13.6.0" type="github"><diagram id="pHF5ERepPH8P6s-aj3NP" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-25T05:30:15.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="-e5imCENU7GTaIrNelDw" version="13.6.4" type="github">
+  <diagram id="pHF5ERepPH8P6s-aj3NP" name="Page-1">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#36393d;fontSize=20;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="260" y="250" width="670" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#001DBC;fontColor=#ffffff;fillColor=#000099;" parent="1" vertex="1">
+          <mxGeometry x="260" y="190" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=14;fontColor=#000000;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" parent="1" source="lnmYfHBjo12DHoF98ygK-33" target="j-ocgt2K4HYI1Q1U0z2H-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753.9700000000003" y="344.9200000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-48" value="ユーザー管理" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=12;fontColor=#000000;horizontal=1;" parent="-P9x7YvajxpakZolltfX-47" vertex="1" connectable="0">
+          <mxGeometry x="-0.125" y="-3" relative="1" as="geometry">
+            <mxPoint x="-9.5" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnmYfHBjo12DHoF98ygK-33" value="Azure Active &lt;br&gt;Directory" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" parent="1" vertex="1">
+          <mxGeometry x="630" y="320" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bqkCoNHw1SNLi0lCFvtM-2" value="TOACK IoTサーバー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="515" y="205.00000000000006" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=14;fontColor=#000000;exitX=0.06;exitY=0.858;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="166" y="486.0150000000001" as="sourcePoint" />
+            <mxPoint x="93" y="486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-57" value="コマンド送信" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="-P9x7YvajxpakZolltfX-52" vertex="1" connectable="0">
+          <mxGeometry x="0.5069" y="-2" relative="1" as="geometry">
+            <mxPoint x="9" y="2.63" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_dTvQsmIpiGYbQ6ut5D-15" value="Sigfox Cloud" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" parent="1" vertex="1">
+          <mxGeometry x="170" y="457.13" width="50" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.38;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;strokeWidth=4;" edge="1" parent="1" source="1_dTvQsmIpiGYbQ6ut5D-28" target="bQBXfCaadF4TGCPjMKv0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-10" value="データ取り出し" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bQBXfCaadF4TGCPjMKv0-9">
+          <mxGeometry x="0.0683" y="3" relative="1" as="geometry">
+            <mxPoint x="-52" y="18.619999999999997" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1_dTvQsmIpiGYbQ6ut5D-28" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;Data Lake Storage Gen2&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" parent="1" vertex="1">
+          <mxGeometry x="490" y="449.38" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.132;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;fontSize=20;fontColor=#0000FF;strokeWidth=4;endArrow=block;endFill=1;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;verticalAlign=bottom;" parent="1" target="1_dTvQsmIpiGYbQ6ut5D-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="475.4000000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-68" value="データ送信" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="-P9x7YvajxpakZolltfX-20" vertex="1" connectable="0">
+          <mxGeometry x="0.169" y="-1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.06;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=14;fontColor=#000000;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" parent="1" target="1_dTvQsmIpiGYbQ6ut5D-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="489" />
+              <mxPoint x="340" y="489" />
+            </Array>
+            <mxPoint x="356" y="489" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-58" value="コマンド送信" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="-P9x7YvajxpakZolltfX-51" vertex="1" connectable="0">
+          <mxGeometry x="-0.1278" y="1" relative="1" as="geometry">
+            <mxPoint x="-13" y="-0.37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Firefly・Bitloggerデータの保存&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;strokeColor=#001DBC;fontSize=20;fontColor=#ffffff;fillColor=#0050ef;" parent="1" vertex="1">
+          <mxGeometry x="400" y="340" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=12;fontColor=#000000;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="465.3800000000001" as="sourcePoint" />
+            <mxPoint x="172.5" y="465.3800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-56" value="データ送信" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="-P9x7YvajxpakZolltfX-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.0788" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-17" value="Fireflyデバイス" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.alexa_enabled_device;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="30" y="443.38" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-27" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;ユーザー用Webアプリ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#0000FF;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="753.61" y="503.38" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-28" value="&lt;span style=&quot;font-size: 14px&quot;&gt;デバイスの認証、データ送受信&lt;br&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;strokeColor=#001DBC;fontSize=20;fontColor=#ffffff;fillColor=#0050ef;position2=0.76;" parent="1" vertex="1">
+          <mxGeometry x="180" y="360" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=20;fontColor=#FFFFFF;strokeWidth=4;endArrow=block;endFill=1;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1063" y="472" as="sourcePoint" />
+            <mxPoint x="866.6100000000001" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-34" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px ; color: rgb(0 , 0 , 0)&quot;&gt;Bitloggerで取得したバイナリファイルのアップロード&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;Fireflyデバイスへのコマンド送信&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;自社データの閲覧&lt;/div&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=20;fontColor=#FFFFFF;" parent="-P9x7YvajxpakZolltfX-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.1047" y="-2" relative="1" as="geometry">
+            <mxPoint x="45" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-32" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;ユーザー&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#000099;fontSize=20;fontColor=#FFFFFF;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=14;fontColor=#000000;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="772.45" y="472.9" />
+              <mxPoint x="772.45" y="472.9" />
+            </Array>
+            <mxPoint x="690" y="472.88" as="sourcePoint" />
+            <mxPoint x="690.44" y="472.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-44" value="ファイルアップロード" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="-P9x7YvajxpakZolltfX-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.1932" y="-2" relative="1" as="geometry">
+            <mxPoint x="-26" y="-31.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.06;entryY=0.981;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=14;fontColor=#000000;verticalAlign=bottom;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="223" y="467.62250000000006" as="sourcePoint" />
+            <mxPoint x="356" y="467.61" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="467.61" />
+              <mxPoint x="340" y="467.61" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-60" value="データ送信" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="-P9x7YvajxpakZolltfX-59" vertex="1" connectable="0">
+          <mxGeometry x="-0.1278" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-67" value="&lt;font style=&quot;font-size: 14px&quot;&gt;データの分析レポートの表示&lt;br&gt;データの可視化&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;strokeColor=#001DBC;fontSize=20;fontColor=#ffffff;fillColor=#0050ef;size=30;position=0.19;position2=0.1;" parent="1" vertex="1">
+          <mxGeometry x="833" y="340" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-P9x7YvajxpakZolltfX-71" value="&lt;span style=&quot;font-size: 14px&quot;&gt;ユーザー用アカウントの管理&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;strokeColor=#001DBC;fontSize=20;fontColor=#ffffff;fillColor=#0050ef;size=20;position=0.52;position2=0.71;base=21;" parent="1" vertex="1">
+          <mxGeometry x="480" y="270" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;strokeWidth=4;" edge="1" parent="1" source="j-ocgt2K4HYI1Q1U0z2H-2" target="6XPC36bnBYVhxqUwG08h-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="814" y="430" />
+              <mxPoint x="376" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-21" value="コマンド送信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bQBXfCaadF4TGCPjMKv0-20">
+          <mxGeometry x="-0.0611" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-ocgt2K4HYI1Q1U0z2H-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Services.svg;" parent="1" vertex="1">
+          <mxGeometry x="788.61" y="449.38" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPC36bnBYVhxqUwG08h-2" value="IoT Hub" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_IoT_Hub.svg;" parent="1" vertex="1">
+          <mxGeometry x="350" y="449.38" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPC36bnBYVhxqUwG08h-3" value="Azure Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" parent="1" vertex="1">
+          <mxGeometry x="630" y="450.38" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="6XPC36bnBYVhxqUwG08h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=14;fontColor=#000000;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625.45" y="472.92999999999995" />
+              <mxPoint x="625.45" y="472.92999999999995" />
+            </Array>
+            <mxPoint x="543" y="472.90999999999997" as="sourcePoint" />
+            <mxPoint x="543.44" y="472.90999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6XPC36bnBYVhxqUwG08h-6" value="CSVファイルに変換" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="6XPC36bnBYVhxqUwG08h-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.1932" y="-2" relative="1" as="geometry">
+            <mxPoint x="-26" y="-31.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6XPC36bnBYVhxqUwG08h-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;fontSize=20;fontColor=#0000FF;strokeWidth=4;endArrow=none;endFill=0;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;verticalAlign=bottom;exitX=0.188;exitY=1.231;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-P9x7YvajxpakZolltfX-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="495.4000000000001" as="sourcePoint" />
+            <mxPoint x="520" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="778" y="550" />
+              <mxPoint x="520" y="550" />
+              <mxPoint x="520" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6XPC36bnBYVhxqUwG08h-11" value="データ読み出し" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=12;fontColor=#000000;" parent="6XPC36bnBYVhxqUwG08h-10" vertex="1" connectable="0">
+          <mxGeometry x="0.169" y="-1" relative="1" as="geometry">
+            <mxPoint x="10.95" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-2" value="Azure Databrick" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="600" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;strokeWidth=4;" edge="1" parent="1" source="bQBXfCaadF4TGCPjMKv0-3" target="-P9x7YvajxpakZolltfX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-22" value="分析結果読み出し" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bQBXfCaadF4TGCPjMKv0-17">
+          <mxGeometry x="-0.3951" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12.39" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-3" value="Cosmos DB" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/CosmosDB.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="598" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=12;fontColor=#000000;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="553.75" y="630.0000000000001" as="sourcePoint" />
+            <mxPoint x="636.25" y="630.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-16" value="分析データ保存" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="bQBXfCaadF4TGCPjMKv0-15">
+          <mxGeometry x="-0.0788" y="1" relative="1" as="geometry">
+            <mxPoint x="3.25" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=block;endFill=1;fontSize=14;fontColor=#000000;strokeWidth=4;shadow=0;sketch=0;labelBorderColor=none;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="471" y="490.38" />
+              <mxPoint x="471" y="490.38" />
+            </Array>
+            <mxPoint x="487" y="490.38" as="sourcePoint" />
+            <mxPoint x="397" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-19" value="コマンド送信" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="bQBXfCaadF4TGCPjMKv0-18">
+          <mxGeometry x="-0.1278" y="1" relative="1" as="geometry">
+            <mxPoint x="-13" y="32.1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-27" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;strokeColor=#001DBC;fontSize=20;fontColor=#ffffff;fillColor=#0050ef;position2=0.76;rotation=-180;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="670" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bQBXfCaadF4TGCPjMKv0-28" value="&lt;font style=&quot;font-size: 15px&quot; color=&quot;#ffffff&quot;&gt;データ分析&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=none;fontColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="710" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
